@@ -1,0 +1,17 @@
+faiss-cpu
+fastapi
+llama-index
+llama-index-core
+llama-index-readers-llama-parse
+llama-index-vector-stores-faiss
+pandas
+numpy
+requests
+unstructured
+python_dotenv
+uvicorn
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface-api
+huggingface_hub
+einops
+
